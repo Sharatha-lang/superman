@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-family: 'Dancing Script', cursive;
+}
+
+h3 {
+  font-family: 'Yeon Sung', cursive;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #e3fdfd;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin-top: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 100px;
+  padding-top: 70px;
+  padding-bottom: 40px;
+  margin-top: 50px;
+  padding-bottom: 10px;
+  padding-top: 40px;
+}
+
+.spanStyle {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.discription {
+  font-weight: normal;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile {
+  position: relative;
+}
+
+.superman-img {
+  width: 15%;
+}
+
+.hello-description {
+  width: 30%;
+  margin: 0 auto;
+  color: #40514E;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 3%;
+  border-width: 05px;
+  color: grey;
+  margin-top: 70px;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.getin-touch {
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 0;
+  line-height: 0;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  width: 110px;
+  font-size: 17px;
+  font-weight: 400;
+  padding: 21px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 50PX;
+  margin-bottom: 50px
+}
+
+.last-paragraph {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin-top: 20px;
+
+}
+
+.footer-link {
+  margin: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
