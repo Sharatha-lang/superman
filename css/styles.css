@@ -49,14 +49,16 @@ h3 {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 20%;
+  top: 10%;
+  width:200px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 400px;
-  top: 400px;
+  left: 20%;
+  top: 55%;
+  width:200px;
 }
 
 .footer-link {
